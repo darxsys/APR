@@ -1,0 +1,34 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+<<<<<<< HEAD
+
+*\~
+
+#my files
+*.log*
+*.out
+*.out2
+*.dot
+*.lp
+*.pdf
+*.vim
+*.swp
+*.swo
+*.new
+*.in
+*.my
+*.txt
+*.png
+*.dat
+.git
